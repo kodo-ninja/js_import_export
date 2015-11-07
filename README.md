@@ -17,6 +17,7 @@ $ pasta=NOME_DA_PASTA npm start
 
 Os nomes das pastas são as pastas que estão em `src/`:
 
+- simples
 - alias
 - default
 - wrapper
