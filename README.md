@@ -19,6 +19,7 @@ Os nomes das pastas são as pastas que estão em `src/`:
 
 - alias
 - default
+- wrapper
 - modulo_especifico
 - reexportacao_proxy
 - reexportacao_simples
