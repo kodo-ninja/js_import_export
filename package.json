@@ -1,0 +1,29 @@
+{
+  "name": "js_import_export",
+  "version": "1.0.0",
+  "description": "As novas versões do Javascript tem trazido excelentes funcionalidades para a sua comunidade.",
+  "main": "src/importador.js",
+  "scripts": {
+    "start": "babel-node src/$pasta/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodo-ninja/js_import_export.git"
+  },
+  "keywords": [
+    "ecmascript6",
+    "import",
+    "export",
+    "javascript"
+  ],
+  "author": "Eric Mendes Dantas, Tiago Resende",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodo-ninja/js_import_export/issues"
+  },
+  "homepage": "https://github.com/kodo-ninja/js_import_export#readme",
+  "devDependencies": {
+    "babel": "^5.8.29"
+  }
+}
