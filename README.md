@@ -25,6 +25,7 @@ Os nomes das pastas são as pastas que estão em `src/`:
 - reexportacao_proxy
 - reexportacao_simples
 - reexportacao_wrapper
+- apenas_carrega
 
 
 # ECMA next
